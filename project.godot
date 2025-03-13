@@ -15,10 +15,6 @@ run/main_scene="res://node_2d.tscn"
 config/features=PackedStringArray("4.3", "C#", "Forward Plus")
 config/icon="res://icon.svg"
 
-[autoload]
-
-GameData="*res://GameData.gd"
-
 [dotnet]
 
 project/assembly_name="MrArduino"
