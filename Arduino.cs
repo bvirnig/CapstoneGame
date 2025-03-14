@@ -16,6 +16,12 @@ public partial class Arduino : Node2D
 	private Label P1ScoreLabel;
 	private Label P2ScoreLabel;
 
+	// Create reference to the UIDLabel (now will show pre-decided name)
+	private Label UIDLabel;
+
+	// Create an AudioStreamPlayer to play the sound
+	private AudioStreamPlayer soundPlayer;
+
 	// Dictionary to store RFID tag UIDs and their corresponding short names
 	private Dictionary<string, string> tagNameMap = new Dictionary<string, string>();
 
@@ -34,6 +40,21 @@ public partial class Arduino : Node2D
 		"0x1D 0xBC 0x71 0x6B 0x87 0x00 0x00", "0x1D 0x10 0xF5 0x6B 0x87 0x00 0x00",
 		"0x1D 0x8A 0xBF 0x6B 0x87 0x00 0x00", "0x1D 0x37 0xC5 0x6B 0x87 0x00 0x00",
 		"0x1D 0xD8 0xEE 0x6B 0x87 0x00 0x00", "0x1D 0xB3 0xD8 0x6B 0x87 0x00 0x00"
+	};
+
+	// Audio files for each tag (match the tag array)
+	private List<AudioStream> audioFiles = new List<AudioStream>
+	{
+		GD.Load<AudioStream>("res://assets/sounds/Project name (en) v2.mp3"),  // Sound for the first tag
+		GD.Load<AudioStream>("res://assets/sounds/Project name (en) v3.mp3"),  // Sound for the second tag
+		GD.Load<AudioStream>("res://assets/sounds/Project name (en) v4 (1).mp3"),  // Sound for the third tag
+		GD.Load<AudioStream>("res://assets/sounds/Project name (en) v5.mp3"),  // Sound for the fourth tag
+		GD.Load<AudioStream>("res://assets/sounds/Project name (en) v6 (1).mp3"),  // Sound for the fifth tag
+		GD.Load<AudioStream>("res://assets/sounds/Project name (en) v7.mp3"),  // Sound for the sixth tag
+		GD.Load<AudioStream>("res://assets/sounds/Project name (en) v8.mp3"),  // Sound for the seventh tag
+		GD.Load<AudioStream>("res://assets/sounds/Project name (en) v9.mp3"),  // Sound for the eighth tag
+		GD.Load<AudioStream>("res://assets/sounds/Project name (en) v10.mp3"),  // Sound for the ninth tag
+		GD.Load<AudioStream>("res://assets/sounds/Project name (en) v11.mp3")  // Sound for the tenth tag
 	};
 
 	private RandomNumberGenerator rng = new RandomNumberGenerator();
@@ -58,6 +79,13 @@ public partial class Arduino : Node2D
 		// Get references to the score labels
 		P1ScoreLabel = GetNode<Label>("P1ScoreLabel");
 		P2ScoreLabel = GetNode<Label>("P2ScoreLabel");
+
+		// Get reference to the UIDLabel (will now show pre-decided name)
+		UIDLabel = GetNode<Label>("UIDLabel");
+
+		// Create the AudioStreamPlayer
+		soundPlayer = new AudioStreamPlayer();
+		AddChild(soundPlayer);  // Add it as a child to the node tree so it can play sounds
 
 		// Initialize the serial port
 		serialPort = new SerialPort();
@@ -85,6 +113,9 @@ public partial class Arduino : Node2D
 		// Set the first expected tag
 		currentExpectedTag = GetRandomTag();
 		GD.Print($"Please scan the expected tag: {currentExpectedTag}");
+
+		// Play the sound at the beginning of the game
+		PlayTagSound(currentExpectedTag);
 
 		// Set visibility based on the current player's turn
 		SetTurnVisibility();
@@ -115,6 +146,17 @@ public partial class Arduino : Node2D
 		return randomTag;
 	}
 
+	private void PlayTagSound(string tagID)
+	{
+		// Get the sound index based on the tagID
+		int tagIndex = specificUIDs.IndexOf(tagID);
+		if (tagIndex >= 0 && tagIndex < audioFiles.Count)
+		{
+			soundPlayer.Stream = audioFiles[tagIndex];  // Set the audio file
+			soundPlayer.Play();  // Play the sound
+		}
+	}
+
 	public override void _Process(double delta)
 	{
 		if (!serialPort.IsOpen)
@@ -129,6 +171,17 @@ public partial class Arduino : Node2D
 			{
 				string serialMessage = serialPort.ReadLine();
 				string tagID = serialMessage.Trim();
+
+				// Get the pre-decided name for the scanned tag from the tagNameMap
+				if (tagNameMap.ContainsKey(tagID))
+				{
+					string tagName = tagNameMap[tagID];
+					UIDLabel.Text = $"Scanned Tag: {tagName}";  // Display the pre-decided name
+				}
+				else
+				{
+					UIDLabel.Text = "Unknown Tag";  // Display a fallback if the tag is not found
+				}
 
 				// Switch turn on every tag scan, regardless of correctness
 				SwitchTurn();
@@ -146,6 +199,9 @@ public partial class Arduino : Node2D
 						player2Score++;  // Increment Player 2's score
 					}
 
+					// Play the sound corresponding to the tag
+					PlayTagSound(currentExpectedTag);
+
 					// Update the score labels
 					UpdateScoreLabels();
 
@@ -155,6 +211,9 @@ public partial class Arduino : Node2D
 					// Set the next expected tag after correct scan
 					currentExpectedTag = GetRandomTag();
 					GD.Print($"Please scan the next expected tag: {currentExpectedTag}");
+
+					// Play the sound for the next tag
+					PlayTagSound(currentExpectedTag);
 				}
 				else
 				{
