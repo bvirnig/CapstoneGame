@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cw3ypr8nj0smj"
+path="res://.godot/imported/clue_whiteShirt.mp3-bd40da1590c3c21c1977be1e6b005011.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds for Capstone/clue_whiteShirt.mp3"
+dest_files=["res://.godot/imported/clue_whiteShirt.mp3-bd40da1590c3c21c1977be1e6b005011.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

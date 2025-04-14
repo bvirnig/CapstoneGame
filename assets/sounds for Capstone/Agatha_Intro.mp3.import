@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cy1b1kww7jmue"
+path="res://.godot/imported/Agatha_Intro.mp3-7cebed45faabbc1d1cd85c63945cad5d.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds for Capstone/Agatha_Intro.mp3"
+dest_files=["res://.godot/imported/Agatha_Intro.mp3-7cebed45faabbc1d1cd85c63945cad5d.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

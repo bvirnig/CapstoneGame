@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cnley435gq3a7"
+path="res://.godot/imported/Clementine_Speel.mp3-a76cee4a06033ef57f90c68f038ced9b.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds for Capstone/Clementine_Speel.mp3"
+dest_files=["res://.godot/imported/Clementine_Speel.mp3-a76cee4a06033ef57f90c68f038ced9b.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

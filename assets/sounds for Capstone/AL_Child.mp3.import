@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://clm5m2otltv6e"
+path="res://.godot/imported/AL_Child.mp3-388b201deb8f15f4cb0ee91329bec5a8.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds for Capstone/AL_Child.mp3"
+dest_files=["res://.godot/imported/AL_Child.mp3-388b201deb8f15f4cb0ee91329bec5a8.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

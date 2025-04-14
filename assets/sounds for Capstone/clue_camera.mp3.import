@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bvgo8cu1ukkm7"
+path="res://.godot/imported/clue_camera.mp3-0030552549240194ae6db57e6b9b583d.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds for Capstone/clue_camera.mp3"
+dest_files=["res://.godot/imported/clue_camera.mp3-0030552549240194ae6db57e6b9b583d.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

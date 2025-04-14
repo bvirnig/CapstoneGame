@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://4ichfnrxrob"
+path="res://.godot/imported/Project name (en) v51.mp3-afc5f01570b528dc78a2cbf01629b0ea.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds for Capstone/Project name (en) v51.mp3"
+dest_files=["res://.godot/imported/Project name (en) v51.mp3-afc5f01570b528dc78a2cbf01629b0ea.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

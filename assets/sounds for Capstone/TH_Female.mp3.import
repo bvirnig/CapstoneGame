@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b3s3t53o44nh2"
+path="res://.godot/imported/TH_Female.mp3-353a8e0318e7a8b1046e22b6689b0f4d.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds for Capstone/TH_Female.mp3"
+dest_files=["res://.godot/imported/TH_Female.mp3-353a8e0318e7a8b1046e22b6689b0f4d.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

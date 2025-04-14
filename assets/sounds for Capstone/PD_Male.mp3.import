@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b5mlsd3cartor"
+path="res://.godot/imported/PD_Male.mp3-fbcc3676707759ae21656cfbbe742b85.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds for Capstone/PD_Male.mp3"
+dest_files=["res://.godot/imported/PD_Male.mp3-fbcc3676707759ae21656cfbbe742b85.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

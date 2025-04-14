@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://vjr2cm6h8agt"
+path="res://.godot/imported/OC_Male.mp3-2d1b6b5cf9095be1297afb06cddd6fed.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds for Capstone/OC_Male.mp3"
+dest_files=["res://.godot/imported/OC_Male.mp3-2d1b6b5cf9095be1297afb06cddd6fed.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

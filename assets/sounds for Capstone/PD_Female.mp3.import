@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://wellyyibmgla"
+path="res://.godot/imported/PD_Female.mp3-4d52b81b6a99365ba7db4075486bc968.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds for Capstone/PD_Female.mp3"
+dest_files=["res://.godot/imported/PD_Female.mp3-4d52b81b6a99365ba7db4075486bc968.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

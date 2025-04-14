@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bp6uyxedycdmb"
+path="res://.godot/imported/clue_greenHoodie.mp3-2c1a6b4375a7a39599c660250f506208.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds for Capstone/clue_greenHoodie.mp3"
+dest_files=["res://.godot/imported/clue_greenHoodie.mp3-2c1a6b4375a7a39599c660250f506208.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

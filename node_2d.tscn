@@ -7,14 +7,14 @@
 [node name="Node2D" type="Node2D"]
 script = ExtResource("1_grtg8")
 
-[node name="blueScreen" type="TextureRect" parent="."]
-modulate = Color(0.101961, 0.0431373, 1, 1)
+[node name="redScreen" type="TextureRect" parent="."]
+modulate = Color(1, 0, 0, 1)
 offset_right = 1152.0
 offset_bottom = 649.0
 texture = SubResource("CanvasTexture_7456i")
 
-[node name="redScreen" type="TextureRect" parent="."]
-modulate = Color(1, 0, 0, 1)
+[node name="blueScreen" type="TextureRect" parent="."]
+modulate = Color(0.101961, 0.0431373, 1, 1)
 offset_right = 1152.0
 offset_bottom = 649.0
 texture = SubResource("CanvasTexture_7456i")
@@ -30,7 +30,7 @@ offset_top = 573.0
 offset_right = 327.0
 offset_bottom = 628.0
 theme_override_font_sizes/font_size = 40
-text = "Player Score: 2"
+text = "Player 1 Score: 0"
 
 [node name="P2ScoreLabel" type="Label" parent="."]
 offset_left = 813.0
@@ -38,12 +38,14 @@ offset_top = 571.0
 offset_right = 1103.0
 offset_bottom = 626.0
 theme_override_font_sizes/font_size = 40
-text = "Player score :1 "
+text = "Player 2 Score: 0"
 
 [node name="UIDLabel" type="Label" parent="."]
-offset_left = 434.0
-offset_top = 300.0
-offset_right = 724.0
-offset_bottom = 355.0
+offset_left = 394.0
+offset_top = 252.0
+offset_right = 787.0
+offset_bottom = 365.0
 theme_override_font_sizes/font_size = 40
-text = "Player score :1 "
+text = "Scan any chracter to
+ to Start!"
+horizontal_alignment = 1

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cjrlxhawjfgy7"
+path="res://.godot/imported/GG_Male.mp3-5bf6dbbdac73157bcb7ff56a60e849d6.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds for Capstone/GG_Male.mp3"
+dest_files=["res://.godot/imported/GG_Male.mp3-5bf6dbbdac73157bcb7ff56a60e849d6.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

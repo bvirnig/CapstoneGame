@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ktfjee05mim4"
+path="res://.godot/imported/OC_Child.mp3-a9bad62fbdd7b781775606d90b8edd9b.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds for Capstone/OC_Child.mp3"
+dest_files=["res://.godot/imported/OC_Child.mp3-a9bad62fbdd7b781775606d90b8edd9b.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

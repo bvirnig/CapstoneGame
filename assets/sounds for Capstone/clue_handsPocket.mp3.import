@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://6lx06qge2flv"
+path="res://.godot/imported/clue_handsPocket.mp3-4aa907b27255ede6df20b3de02f37429.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds for Capstone/clue_handsPocket.mp3"
+dest_files=["res://.godot/imported/clue_handsPocket.mp3-4aa907b27255ede6df20b3de02f37429.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://n3w2mh3sv8o0"
+path="res://.godot/imported/Child_Next2.mp3-fb5a0c17dba0cdf823a0cc9d11e9830f.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds for Capstone/Child_Next2.mp3"
+dest_files=["res://.godot/imported/Child_Next2.mp3-fb5a0c17dba0cdf823a0cc9d11e9830f.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

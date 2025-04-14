@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dfwmwusuctoy5"
+path="res://.godot/imported/SSM_Male.mp3-01cb58bdae7af64d26e269cb007b4845.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds for Capstone/SSM_Male.mp3"
+dest_files=["res://.godot/imported/SSM_Male.mp3-01cb58bdae7af64d26e269cb007b4845.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

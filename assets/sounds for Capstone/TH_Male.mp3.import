@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://blcqtv8m7x26q"
+path="res://.godot/imported/TH_Male.mp3-6e6cb248e6ee1f3eb86d8ef755d93f97.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds for Capstone/TH_Male.mp3"
+dest_files=["res://.godot/imported/TH_Male.mp3-6e6cb248e6ee1f3eb86d8ef755d93f97.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

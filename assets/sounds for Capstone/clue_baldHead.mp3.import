@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://40y4mrvppr0h"
+path="res://.godot/imported/clue_baldHead.mp3-f8edb7aecaeb79a38914365baa5f7231.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds for Capstone/clue_baldHead.mp3"
+dest_files=["res://.godot/imported/clue_baldHead.mp3-f8edb7aecaeb79a38914365baa5f7231.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

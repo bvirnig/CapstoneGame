@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bxd4piyqubqvo"
+path="res://.godot/imported/ThongIsland_Speel.mp3-5bb163a40911f93b115a176830bb2495.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds for Capstone/ThongIsland_Speel.mp3"
+dest_files=["res://.godot/imported/ThongIsland_Speel.mp3-5bb163a40911f93b115a176830bb2495.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

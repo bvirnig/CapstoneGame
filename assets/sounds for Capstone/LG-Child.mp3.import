@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bu5fku5nno21b"
+path="res://.godot/imported/LG-Child.mp3-571c6957698c17d6b7f7cd67f45ded31.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds for Capstone/LG-Child.mp3"
+dest_files=["res://.godot/imported/LG-Child.mp3-571c6957698c17d6b7f7cd67f45ded31.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

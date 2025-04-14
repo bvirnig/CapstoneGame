@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://tflxcj8wtwys"
+path="res://.godot/imported/OC_Intro.mp3-852c2f2050daea27b13a68e99684a630.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds for Capstone/OC_Intro.mp3"
+dest_files=["res://.godot/imported/OC_Intro.mp3-852c2f2050daea27b13a68e99684a630.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
