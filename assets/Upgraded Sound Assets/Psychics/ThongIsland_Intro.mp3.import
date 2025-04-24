@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://duefpq05yj5lr"
+path="res://.godot/imported/ThongIsland_Intro.mp3-b31df3285c368da1060faab11f04a77f.mp3str"
+
+[deps]
+
+source_file="res://assets/Upgraded Sound Assets/Psychics/ThongIsland_Intro.mp3"
+dest_files=["res://.godot/imported/ThongIsland_Intro.mp3-b31df3285c368da1060faab11f04a77f.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

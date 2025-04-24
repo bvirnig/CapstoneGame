@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ddqajr0s15jaf"
+path="res://.godot/imported/Ronan_Success2.mp3-20dbfd1dacd44bb3ac0c561eb0e3b81e.mp3str"
+
+[deps]
+
+source_file="res://assets/Upgraded Sound Assets/Psychics/Ronan_Success2.mp3"
+dest_files=["res://.godot/imported/Ronan_Success2.mp3-20dbfd1dacd44bb3ac0c561eb0e3b81e.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

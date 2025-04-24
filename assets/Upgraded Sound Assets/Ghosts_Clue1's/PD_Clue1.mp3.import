@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bjh1d0n5solkj"
+path="res://.godot/imported/PD_Clue1.mp3-e0021d13fe9b5e8543640abf17c64e47.mp3str"
+
+[deps]
+
+source_file="res://assets/Upgraded Sound Assets/Ghosts_Clue1's/PD_Clue1.mp3"
+dest_files=["res://.godot/imported/PD_Clue1.mp3-e0021d13fe9b5e8543640abf17c64e47.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

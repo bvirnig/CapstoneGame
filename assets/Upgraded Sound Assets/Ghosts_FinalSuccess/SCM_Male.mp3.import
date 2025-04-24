@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://13uiutamwpg0"
+path="res://.godot/imported/SCM_Male.mp3-15b59ff42e0933d3a7adf90959c2a0df.mp3str"
+
+[deps]
+
+source_file="res://assets/Upgraded Sound Assets/Ghosts_FinalSuccess/SCM_Male.mp3"
+dest_files=["res://.godot/imported/SCM_Male.mp3-15b59ff42e0933d3a7adf90959c2a0df.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

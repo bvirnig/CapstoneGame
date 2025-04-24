@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bv4orf8e6lcif"
+path="res://.godot/imported/Clue3_Blonde.mp3-16c862d643ee79eeb52a085b0b757813.mp3str"
+
+[deps]
+
+source_file="res://assets/Upgraded Sound Assets/Ghosts_Clue3's/Clue3_Blonde.mp3"
+dest_files=["res://.godot/imported/Clue3_Blonde.mp3-16c862d643ee79eeb52a085b0b757813.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

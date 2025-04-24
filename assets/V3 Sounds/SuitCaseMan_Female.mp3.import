@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bowyxbwxrxrkd"
+path="res://.godot/imported/SuitCaseMan_Female.mp3-eff2157c99ab387d22a4b7032f8a54f2.mp3str"
+
+[deps]
+
+source_file="res://assets/V3 Sounds/SuitCaseMan_Female.mp3"
+dest_files=["res://.godot/imported/SuitCaseMan_Female.mp3-eff2157c99ab387d22a4b7032f8a54f2.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

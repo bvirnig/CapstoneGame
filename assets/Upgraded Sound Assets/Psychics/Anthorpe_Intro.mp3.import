@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c4dv015dqy1ed"
+path="res://.godot/imported/Anthorpe_Intro.mp3-87190aee80ef3daed9b87b8e9af9da16.mp3str"
+
+[deps]
+
+source_file="res://assets/Upgraded Sound Assets/Psychics/Anthorpe_Intro.mp3"
+dest_files=["res://.godot/imported/Anthorpe_Intro.mp3-87190aee80ef3daed9b87b8e9af9da16.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

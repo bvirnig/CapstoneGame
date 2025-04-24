@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://jpgn0uvp5y7l"
+path="res://.godot/imported/PD_Child.mp3-613cb5906475055680a997670b42697c.mp3str"
+
+[deps]
+
+source_file="res://assets/Upgraded Sound Assets/Ghosts_FinalSuccess/PD_Child.mp3"
+dest_files=["res://.godot/imported/PD_Child.mp3-613cb5906475055680a997670b42697c.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

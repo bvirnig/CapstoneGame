@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cdlprvg050rwl"
+path="res://.godot/imported/GrandpaGrandson_Female.mp3-0d357eed3f0f955b12892c1d259f8b11.mp3str"
+
+[deps]
+
+source_file="res://assets/V3 Sounds/GrandpaGrandson_Female.mp3"
+dest_files=["res://.godot/imported/GrandpaGrandson_Female.mp3-0d357eed3f0f955b12892c1d259f8b11.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

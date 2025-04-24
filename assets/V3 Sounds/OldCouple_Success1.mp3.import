@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ksrvqchx40o1"
+path="res://.godot/imported/OldCouple_Success1.mp3-72f4f80d82e746c5a4a1213ec0227b5b.mp3str"
+
+[deps]
+
+source_file="res://assets/V3 Sounds/OldCouple_Success1.mp3"
+dest_files=["res://.godot/imported/OldCouple_Success1.mp3-72f4f80d82e746c5a4a1213ec0227b5b.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

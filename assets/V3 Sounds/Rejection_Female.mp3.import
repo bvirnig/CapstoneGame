@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c4par4w1sk3ta"
+path="res://.godot/imported/Rejection_Female.mp3-0912d45f03e8da6cba92b47e63cb7de5.mp3str"
+
+[deps]
+
+source_file="res://assets/V3 Sounds/Rejection_Female.mp3"
+dest_files=["res://.godot/imported/Rejection_Female.mp3-0912d45f03e8da6cba92b47e63cb7de5.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

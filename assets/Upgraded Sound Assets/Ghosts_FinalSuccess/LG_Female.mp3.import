@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://8nqt7g4bp6vf"
+path="res://.godot/imported/LG_Female.mp3-cea4cf9e0f1c838f29d4235f1383387b.mp3str"
+
+[deps]
+
+source_file="res://assets/Upgraded Sound Assets/Ghosts_FinalSuccess/LG_Female.mp3"
+dest_files=["res://.godot/imported/LG_Female.mp3-cea4cf9e0f1c838f29d4235f1383387b.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

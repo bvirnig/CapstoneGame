@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cn77tejdvkjrj"
+path="res://.godot/imported/TH_Success1.mp3-2627c87079d530b983e173237eb083c7.mp3str"
+
+[deps]
+
+source_file="res://assets/Upgraded Sound Assets/Ghosts_FinalSuccess/TH_Success1.mp3"
+dest_files=["res://.godot/imported/TH_Success1.mp3-2627c87079d530b983e173237eb083c7.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://w0mobh50btnl"
+path="res://.godot/imported/BossStage3.mp3-f4b8e3c4504124a4125d0634945fafe2.mp3str"
+
+[deps]
+
+source_file="res://assets/V3 Sounds/BossStage3.mp3"
+dest_files=["res://.godot/imported/BossStage3.mp3-f4b8e3c4504124a4125d0634945fafe2.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

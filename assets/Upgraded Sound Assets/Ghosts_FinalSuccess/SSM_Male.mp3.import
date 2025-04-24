@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bas15km6qvx0m"
+path="res://.godot/imported/SSM_Male.mp3-b0c7ddf507f841620947520564b29acc.mp3str"
+
+[deps]
+
+source_file="res://assets/Upgraded Sound Assets/Ghosts_FinalSuccess/SSM_Male.mp3"
+dest_files=["res://.godot/imported/SSM_Male.mp3-b0c7ddf507f841620947520564b29acc.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

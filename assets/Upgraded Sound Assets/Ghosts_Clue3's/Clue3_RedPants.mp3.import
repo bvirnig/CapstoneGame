@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bubw6i8utejlm"
+path="res://.godot/imported/Clue3_RedPants.mp3-c6b77f4dd1203ce2e2a90367c32fa11b.mp3str"
+
+[deps]
+
+source_file="res://assets/Upgraded Sound Assets/Ghosts_Clue3's/Clue3_RedPants.mp3"
+dest_files=["res://.godot/imported/Clue3_RedPants.mp3-c6b77f4dd1203ce2e2a90367c32fa11b.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

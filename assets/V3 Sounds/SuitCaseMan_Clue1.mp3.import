@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://i3efsrfgaqb8"
+path="res://.godot/imported/SuitCaseMan_Clue1.mp3-ad9c71db79dc347b3ab0a2c873da5422.mp3str"
+
+[deps]
+
+source_file="res://assets/V3 Sounds/SuitCaseMan_Clue1.mp3"
+dest_files=["res://.godot/imported/SuitCaseMan_Clue1.mp3-ad9c71db79dc347b3ab0a2c873da5422.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

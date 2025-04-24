@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cgjbhy0y6xtdq"
+path="res://.godot/imported/SSM_Female.mp3-277e4a0bc69cda2c5aa75c12cbc2081d.mp3str"
+
+[deps]
+
+source_file="res://assets/Upgraded Sound Assets/Ghosts_FinalSuccess/SSM_Female.mp3"
+dest_files=["res://.godot/imported/SSM_Female.mp3-277e4a0bc69cda2c5aa75c12cbc2081d.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

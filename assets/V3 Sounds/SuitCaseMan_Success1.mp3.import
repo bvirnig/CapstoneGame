@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://y88q5oaeh6d5"
+path="res://.godot/imported/SuitCaseMan_Success1.mp3-c70eac3dd3e0c33c428ff18c2634378a.mp3str"
+
+[deps]
+
+source_file="res://assets/V3 Sounds/SuitCaseMan_Success1.mp3"
+dest_files=["res://.godot/imported/SuitCaseMan_Success1.mp3-c70eac3dd3e0c33c428ff18c2634378a.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

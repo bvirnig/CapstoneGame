@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dn7gqk2162glu"
+path="res://.godot/imported/GrandpaGrandson_Clue1.mp3-fa633177ad731aa188273b3e36a4f480.mp3str"
+
+[deps]
+
+source_file="res://assets/V3 Sounds/GrandpaGrandson_Clue1.mp3"
+dest_files=["res://.godot/imported/GrandpaGrandson_Clue1.mp3-fa633177ad731aa188273b3e36a4f480.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

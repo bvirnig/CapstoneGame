@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cf8sfvxq8heem"
+path="res://.godot/imported/SSM_Child.mp3-59d50421504cb785447da505947b0cd9.mp3str"
+
+[deps]
+
+source_file="res://assets/Upgraded Sound Assets/Ghosts_FinalSuccess/SSM_Child.mp3"
+dest_files=["res://.godot/imported/SSM_Child.mp3-59d50421504cb785447da505947b0cd9.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

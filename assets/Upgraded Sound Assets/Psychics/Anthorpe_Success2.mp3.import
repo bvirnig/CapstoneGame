@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c15wm0pgp4tqh"
+path="res://.godot/imported/Anthorpe_Success2.mp3-1f748e3fce0b8fbb0033ed091fac32ee.mp3str"
+
+[deps]
+
+source_file="res://assets/Upgraded Sound Assets/Psychics/Anthorpe_Success2.mp3"
+dest_files=["res://.godot/imported/Anthorpe_Success2.mp3-1f748e3fce0b8fbb0033ed091fac32ee.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

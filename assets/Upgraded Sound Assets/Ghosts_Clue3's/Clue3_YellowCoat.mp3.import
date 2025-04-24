@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dsyyus5ve6xu"
+path="res://.godot/imported/Clue3_YellowCoat.mp3-bb6de1f8ae5aa58a8b2294fc8c9b7cb8.mp3str"
+
+[deps]
+
+source_file="res://assets/Upgraded Sound Assets/Ghosts_Clue3's/Clue3_YellowCoat.mp3"
+dest_files=["res://.godot/imported/Clue3_YellowCoat.mp3-bb6de1f8ae5aa58a8b2294fc8c9b7cb8.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

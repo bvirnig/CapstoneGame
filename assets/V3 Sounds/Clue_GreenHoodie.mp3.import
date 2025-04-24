@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://7r23emvqm8ip"
+path="res://.godot/imported/Clue_GreenHoodie.mp3-52756eea1a6418e8c6a8946f6319db0b.mp3str"
+
+[deps]
+
+source_file="res://assets/V3 Sounds/Clue_GreenHoodie.mp3"
+dest_files=["res://.godot/imported/Clue_GreenHoodie.mp3-52756eea1a6418e8c6a8946f6319db0b.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

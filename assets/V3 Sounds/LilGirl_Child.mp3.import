@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://4xdfmdwi8gpo"
+path="res://.godot/imported/LilGirl_Child.mp3-4efce05cc3e768fd26c42ff620753e05.mp3str"
+
+[deps]
+
+source_file="res://assets/V3 Sounds/LilGirl_Child.mp3"
+dest_files=["res://.godot/imported/LilGirl_Child.mp3-4efce05cc3e768fd26c42ff620753e05.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

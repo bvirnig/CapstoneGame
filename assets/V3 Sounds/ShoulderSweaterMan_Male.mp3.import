@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bjp18yi6jhyi4"
+path="res://.godot/imported/ShoulderSweaterMan_Male.mp3-fc48cb10f036b0ffc12d1426b914308f.mp3str"
+
+[deps]
+
+source_file="res://assets/V3 Sounds/ShoulderSweaterMan_Male.mp3"
+dest_files=["res://.godot/imported/ShoulderSweaterMan_Male.mp3-fc48cb10f036b0ffc12d1426b914308f.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

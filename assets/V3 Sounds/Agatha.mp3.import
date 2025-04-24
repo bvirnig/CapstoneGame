@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b44d4jm4kgxqh"
+path="res://.godot/imported/Agatha.mp3-a221b787255685f830d94f4fbc7c702e.mp3str"
+
+[deps]
+
+source_file="res://assets/V3 Sounds/Agatha.mp3"
+dest_files=["res://.godot/imported/Agatha.mp3-a221b787255685f830d94f4fbc7c702e.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

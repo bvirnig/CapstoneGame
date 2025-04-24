@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cx4kegai8fo0h"
+path="res://.godot/imported/Clue_YellowDress.mp3-36db7cbc789014720a3fac0559e90759.mp3str"
+
+[deps]
+
+source_file="res://assets/V3 Sounds/Clue_YellowDress.mp3"
+dest_files=["res://.godot/imported/Clue_YellowDress.mp3-36db7cbc789014720a3fac0559e90759.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

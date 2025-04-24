@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c5dbtkw24o1rs"
+path="res://.godot/imported/Bereaved_Child.mp3-f20494d43f656ebf7ecc16ac2f371959.mp3str"
+
+[deps]
+
+source_file="res://assets/V3 Sounds/Bereaved_Child.mp3"
+dest_files=["res://.godot/imported/Bereaved_Child.mp3-f20494d43f656ebf7ecc16ac2f371959.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

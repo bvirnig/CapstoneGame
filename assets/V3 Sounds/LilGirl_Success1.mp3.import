@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c2rtnufiqk4rj"
+path="res://.godot/imported/LilGirl_Success1.mp3-ea292317886a6686ebf7b639806fe740.mp3str"
+
+[deps]
+
+source_file="res://assets/V3 Sounds/LilGirl_Success1.mp3"
+dest_files=["res://.godot/imported/LilGirl_Success1.mp3-ea292317886a6686ebf7b639806fe740.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

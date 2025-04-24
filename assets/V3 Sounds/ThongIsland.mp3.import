@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://3f0wp764tx4v"
+path="res://.godot/imported/ThongIsland.mp3-f7aa230921a06d14237ce52e9627a47f.mp3str"
+
+[deps]
+
+source_file="res://assets/V3 Sounds/ThongIsland.mp3"
+dest_files=["res://.godot/imported/ThongIsland.mp3-f7aa230921a06d14237ce52e9627a47f.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

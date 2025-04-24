@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://vl62lwsp63fb"
+path="res://.godot/imported/TrumpHat_Child.mp3-10deed2259afb7f0d772ac86c0c0c3f9.mp3str"
+
+[deps]
+
+source_file="res://assets/V3 Sounds/TrumpHat_Child.mp3"
+dest_files=["res://.godot/imported/TrumpHat_Child.mp3-10deed2259afb7f0d772ac86c0c0c3f9.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

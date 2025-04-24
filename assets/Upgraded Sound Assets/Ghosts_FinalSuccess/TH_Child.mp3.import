@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://rms3elp68xxy"
+path="res://.godot/imported/TH_Child.mp3-d331935804289b37d9c2a7e07375c7f5.mp3str"
+
+[deps]
+
+source_file="res://assets/Upgraded Sound Assets/Ghosts_FinalSuccess/TH_Child.mp3"
+dest_files=["res://.godot/imported/TH_Child.mp3-d331935804289b37d9c2a7e07375c7f5.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

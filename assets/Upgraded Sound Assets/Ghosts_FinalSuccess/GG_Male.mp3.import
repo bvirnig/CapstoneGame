@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b3tu0mixamhts"
+path="res://.godot/imported/GG_Male.mp3-77b0713e516a0ee173d6e5701c83c20d.mp3str"
+
+[deps]
+
+source_file="res://assets/Upgraded Sound Assets/Ghosts_FinalSuccess/GG_Male.mp3"
+dest_files=["res://.godot/imported/GG_Male.mp3-77b0713e516a0ee173d6e5701c83c20d.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

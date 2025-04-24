@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c263n4cip8wal"
+path="res://.godot/imported/LG_Male.mp3-2122a7d1f6bfd4c5fdd0b02911fe23cb.mp3str"
+
+[deps]
+
+source_file="res://assets/Upgraded Sound Assets/Ghosts_FinalSuccess/LG_Male.mp3"
+dest_files=["res://.godot/imported/LG_Male.mp3-2122a7d1f6bfd4c5fdd0b02911fe23cb.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

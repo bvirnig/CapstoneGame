@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bjdhejb4a5yk8"
+path="res://.godot/imported/AL_Success1.mp3-191fc3185d80441b72f3d5e3f682f954.mp3str"
+
+[deps]
+
+source_file="res://assets/Upgraded Sound Assets/Ghosts_FinalSuccess/AL_Success1.mp3"
+dest_files=["res://.godot/imported/AL_Success1.mp3-191fc3185d80441b72f3d5e3f682f954.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

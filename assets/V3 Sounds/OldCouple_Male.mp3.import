@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://caricirhp7vug"
+path="res://.godot/imported/OldCouple_Male.mp3-a52f208a0107580ca78c1ca41ce4f01c.mp3str"
+
+[deps]
+
+source_file="res://assets/V3 Sounds/OldCouple_Male.mp3"
+dest_files=["res://.godot/imported/OldCouple_Male.mp3-a52f208a0107580ca78c1ca41ce4f01c.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

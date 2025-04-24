@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://gbwedf2hviyw"
+path="res://.godot/imported/GrandpaGrandson_Male.mp3-755fc1e2e51129e675f5b5ee41764ce6.mp3str"
+
+[deps]
+
+source_file="res://assets/V3 Sounds/GrandpaGrandson_Male.mp3"
+dest_files=["res://.godot/imported/GrandpaGrandson_Male.mp3-755fc1e2e51129e675f5b5ee41764ce6.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

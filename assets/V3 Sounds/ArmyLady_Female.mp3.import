@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cy040kylfwuxo"
+path="res://.godot/imported/ArmyLady_Female.mp3-f70ab2ae1782bb5987abdbc657024dd1.mp3str"
+
+[deps]
+
+source_file="res://assets/V3 Sounds/ArmyLady_Female.mp3"
+dest_files=["res://.godot/imported/ArmyLady_Female.mp3-f70ab2ae1782bb5987abdbc657024dd1.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

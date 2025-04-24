@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cyxx6kvad1a0b"
+path="res://.godot/imported/Skittles.mp3-ff0c10b12fe42e35f8c1cd4347f410df.mp3str"
+
+[deps]
+
+source_file="res://assets/V3 Sounds/Skittles.mp3"
+dest_files=["res://.godot/imported/Skittles.mp3-ff0c10b12fe42e35f8c1cd4347f410df.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

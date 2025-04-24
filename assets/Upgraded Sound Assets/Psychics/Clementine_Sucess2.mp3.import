@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c8y44h4vd3pc1"
+path="res://.godot/imported/Clementine_Sucess2.mp3-06888c9b2f273207d60833b11a060a1e.mp3str"
+
+[deps]
+
+source_file="res://assets/Upgraded Sound Assets/Psychics/Clementine_Sucess2.mp3"
+dest_files=["res://.godot/imported/Clementine_Sucess2.mp3-06888c9b2f273207d60833b11a060a1e.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

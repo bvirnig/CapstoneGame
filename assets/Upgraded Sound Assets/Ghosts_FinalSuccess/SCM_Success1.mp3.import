@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dkp1e5v0gkcq6"
+path="res://.godot/imported/SCM_Success1.mp3-b585736dbc09950347b9db56b18d7e5b.mp3str"
+
+[deps]
+
+source_file="res://assets/Upgraded Sound Assets/Ghosts_FinalSuccess/SCM_Success1.mp3"
+dest_files=["res://.godot/imported/SCM_Success1.mp3-b585736dbc09950347b9db56b18d7e5b.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
